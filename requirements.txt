@@ -1,0 +1,6 @@
+streamlit>=1.50,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+sentence-transformers>=3.3,<6
+faiss-cpu>=1.9,<2
+scikit-learn>=1.5,<2
